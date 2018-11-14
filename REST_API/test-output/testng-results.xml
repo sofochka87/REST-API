@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2027" started-at="2018-09-01T20:09:45Z" finished-at="2018-09-01T20:09:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2027" started-at="2018-09-01T20:09:45Z" finished-at="2018-09-01T20:09:47Z">
+      <class name="com.api.auth.Auth2">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.api.auth.Auth2@11267e87]" name="init" is-config="true" duration-ms="519" started-at="2018-09-01T20:09:45Z" finished-at="2018-09-01T20:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="getAllModule()[pri:0, instance:com.api.auth.Auth2@11267e87]" name="getAllModule" duration-ms="1492" started-at="2018-09-01T20:09:45Z" finished-at="2018-09-01T20:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllModule -->
+      </class> <!-- com.api.auth.Auth2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
